@@ -1,0 +1,1 @@
+# Equivalence-Partitioning-Testing-Exercises
